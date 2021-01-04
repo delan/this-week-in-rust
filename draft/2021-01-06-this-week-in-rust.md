@@ -22,6 +22,8 @@ No newsletters this week.
 
 ### Observations/Thoughts
 
+* bore(1) + nonymous: lessons learned writing a DNS query tool and `#![no_std]` DNS library
+
 ### Rust Walkthroughs
 
 ### Miscellaneous
